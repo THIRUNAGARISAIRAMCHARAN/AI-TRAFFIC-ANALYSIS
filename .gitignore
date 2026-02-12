@@ -1,0 +1,14 @@
+# .gitignore
+*.pt
+*.mp4
+*.zip
+__pycache__/
+.venv/
+outputs/
+uploads/
+.ipynb_checkpoints/
+*.exe
+*.dll
+*.so
+*.pyc
+.DS_Store
